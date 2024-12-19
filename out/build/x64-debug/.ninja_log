@@ -1,0 +1,6 @@
+# ninja log v5
+14	239	7563013982941339	build.ninja	9a54d929d0e29f5c
+35	1311	7563013871707872	Server/CMakeFiles/Server.dir/Server.cpp.obj	aa9359bccb053140
+2	731	7563007758000760	Client/CMakeFiles/Client.dir/Client.cpp.obj	6643e323bac1f5aa
+1311	1643	7563013874889125	Server/Server.exe	5ba13f54b34003d1
+29	1017	7563013868100708	Client/Client.exe	5703f798381b136b

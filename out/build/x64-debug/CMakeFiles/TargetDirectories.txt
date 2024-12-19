@@ -1,0 +1,8 @@
+E:/OS/OS_LAB_5/out/build/x64-debug/CMakeFiles/edit_cache.dir
+E:/OS/OS_LAB_5/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+E:/OS/OS_LAB_5/out/build/x64-debug/Client/CMakeFiles/Client.dir
+E:/OS/OS_LAB_5/out/build/x64-debug/Client/CMakeFiles/edit_cache.dir
+E:/OS/OS_LAB_5/out/build/x64-debug/Client/CMakeFiles/rebuild_cache.dir
+E:/OS/OS_LAB_5/out/build/x64-debug/Server/CMakeFiles/Server.dir
+E:/OS/OS_LAB_5/out/build/x64-debug/Server/CMakeFiles/edit_cache.dir
+E:/OS/OS_LAB_5/out/build/x64-debug/Server/CMakeFiles/rebuild_cache.dir
